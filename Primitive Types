@@ -1,0 +1,22 @@
+class RelationalOperaators
+{
+  public static void main(String[] args)
+  {
+    if(x==y)
+		{
+			System.out.println("given numbers are equal");
+		}
+		else
+		{
+			System.out.println("given numbers are not equal");
+		}
+		if(x<=y)
+		{
+			System.out.println("X is less then y");
+		}
+		else      //this statement is executed when x is greater then y
+		{
+			System.out.println("X is greater then y");
+		}
+   }
+  }
